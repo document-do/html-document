@@ -21,4 +21,4 @@ Yes. See [example](https://github.com/document-do/html-document/blob/main/exampl
 
 
 #### Can I use document.do's JS?
-Yes. See [example](https://github.com/document-do/html-document/blob/main/examples/document.do.js.html). View the source of document.do to find something useful. Don't be evil.
+Yes. See [example](https://github.com/document-do/html-document/blob/main/examples/document.do.js.html). View [min.js](https://github.com/document-do/web/blob/main/min.js) to find something useful. Don't be evil.

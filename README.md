@@ -17,8 +17,8 @@ For safety reasons you can't.
 
 
 #### Can I use the stylesheet of document.do?
-Yes. See example.
+Yes. See [example](https://github.com/document-do/html-document/blob/main/examples/document.do.css.html).
 
 
 #### Can I use document.do's JS?
-Yes. View the source of document.do to find something useful.
+Yes. See [example](https://github.com/document-do/html-document/blob/main/examples/document.do.js.html). View the source of document.do to find something useful. Don't be evil.

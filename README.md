@@ -15,9 +15,6 @@ document.write($content_of_document);
 #### Can I load/call external sources?
 For safety reasons you can't.
 
-#### Can I add multiple pages?
-Yes, with a [router](https://github.com/document-do/router).
-
 #### Can I use the stylesheet of document.do?
 Yes. See [example](https://github.com/document-do/html-document/blob/main/examples/document.do.css.html).
 

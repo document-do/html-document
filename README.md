@@ -1,4 +1,4 @@
-### How to publish a HTML document with document.do?
+### How to publish a HTML document on Polygon with document.do?
 Start your document with:
 ```
 <!DOCTYPE html>
